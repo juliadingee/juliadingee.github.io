@@ -1,0 +1,43 @@
+            
+        
+
+    
+<section class="about">
+
+    
+    <div class="space"></div>
+    <img src="images/aboutImage.jpg"  class="about-image">
+    <p class="image-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate consequatur quidem non vitae? Odit velit nobis quisquam, fuga quis quae laboriosam, voluptatibus error recusandae omnis iure corrupti saepe. Pariatur, laboriosam.</p>
+    <div class="space"></div>
+</section>
+
+   
+</body>
+</html>
+
+
+
+
+
+
+
+
+    <nav class="nav">
+        <div> phone number</div>
+
+        <div> space</div>
+
+        <div>image</div>
+        <div> space</div>
+        <div class="links">
+            <ul>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Knitting</a></li>
+                <li><a href="#">Fine Arts</a></li>
+                <li><a href="#">Cats</a></li>
+            </ul>
+        </div>
+
+
+
+    </nav>
